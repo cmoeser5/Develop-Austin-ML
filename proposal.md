@@ -2,6 +2,11 @@
 
 Predict possible additional interests based on user interests - Recommendation System
 
+Revision
+* Recommendation System based on the name/text + lat +long + types to predict a user rating 
+* User will enter certain features and the machine will predict the rating
+* Use weighted average or 2 different models, combine types into a list to categorize (put into a set and then combine into binary variables)
+
 * Database
     * Ratings
     * Total user ratings (amount of users rating the location)
@@ -19,9 +24,7 @@ Predict possible additional interests based on user interests - Recommendation S
     * Map of Austin
     * Description of Project
     * Preview of database
-* Route 2: User input into Database
-    * Input data of location, name, type and rating
-* Route 3: User Input & Recommendations
+* Route 2: User Input & Recommendations
     * User to select interests/ratings/locations 
     * Return recommendations/predictions of locations to visit around Austin based on the user's selection
     * Map showing the recommenations
