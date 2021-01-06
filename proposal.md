@@ -25,8 +25,8 @@ Revision
     * Description of Project
     * Preview of database
 * Route 2: User Input & Recommendations
-    * User to select interests/ratings/locations 
-    * Return recommendations/predictions of locations to visit around Austin based on the user's selection
+    * User to select name, lat, long, and type
+    * Return predicition of rating a new establishment might receive
     * Map showing the recommenations
     * Other visualizations on this route or create separate visualization route
         * D3
@@ -35,4 +35,4 @@ Project Schedule
 * Regularly meeting with Ed to focus on ML and office hours
 * Week 1: clean/populate database, fix user input functionality and create an ERD of project functionality/structure of app
 * Week 2: focus on the machine learning aspect of project
-* Week 3: continue machine learning functionality and focus on visualizations, work on CSS of app and populate README
+* Week 3: continue machine learning functionality and focus on visualizations, work on CSS of app and populate READMEß
