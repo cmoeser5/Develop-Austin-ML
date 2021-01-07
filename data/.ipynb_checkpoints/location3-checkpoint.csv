@@ -1,0 +1,388 @@
+id,name,rating,user_ratings_total,latitude,longitude,types1,types2,types3,types4,types5,types6,types7,latitude_region
+706,Mikado Ryotei,4.5,369.0,30.373440000000002,-97.724686,bar, restaurant, food, point_of_interest, establishment,,,North
+708,Earl J. Pomerleau Pocket Park,4.3,6.0,30.3184832,-97.6867909,park, point_of_interest, establishment,,,,,North
+716,La Placita,4.4,241.0,30.194588800000002,-97.7451895,restaurant, food, point_of_interest, establishment,,,,Central
+717,Dittmar District Park,4.4,297.0,30.1825707,-97.79972059999999,park, tourist_attraction, point_of_interest, establishment,,,,Central
+719,Rosa's Café & Tortilla Factory,4.2,1305.0,30.1713294,-97.7990977,restaurant, meal_takeaway, food, point_of_interest, establishment,,,Central
+720,Sullivan Park,4.4,8.0,30.1397276,-97.7903859,park, point_of_interest, establishment,,,,,South
+721,Historical Marker,3.7,3.0,30.176056,-97.7086248,park, point_of_interest, establishment,,,,,Central
+722,Alicia’s Tacoriendo,4.9,21.0,30.170678999999996,-97.6898498,restaurant, food, point_of_interest, establishment,,,,Central
+723,"Pastor Edward Clarence Craig, Jr. Neighborhood Park",4.4,139.0,30.1989,-97.73979200000001,park, tourist_attraction, point_of_interest, establishment,,,,Central
+728,Brooklyn breakfast shop,5.0,35.0,30.1852909,-97.7920979,restaurant, food, point_of_interest, establishment,,,,Central
+731,Kendra Page Neighborhood Park,3.9,57.0,30.18003479999999,-97.7641629,park, tourist_attraction, point_of_interest, establishment,,,,Central
+772,Grand Meadow Neighborhood Park,3.8,55.0,30.156798,-97.7427435,park, tourist_attraction, point_of_interest, establishment,,,,Central
+773,Papa John's Pizza,3.6,135.0,30.1573674,-97.7446082,restaurant, food, point_of_interest, establishment,,,,Central
+774,MI Homes Model Home,2.0,1.0,30.154698100000005,-97.7544694,point_of_interest, establishment,,,,,,Central
+775,South Boggy Creek Greenbelt,3.8,9.0,30.18055279999999,-97.7804983,cemetery, tourist_attraction, park, point_of_interest, establishment,,,Central
+776,Century South,4.0,1072.0,30.1898169,-97.7742949,shopping_mall, point_of_interest, establishment,,,,,Central
+779,Boggy Creek Masonic Cemetery,4.5,12.0,30.182448200000003,-97.78070229999999,point_of_interest, establishment,,,,,,Central
+781,Auto Relief Tires,5.0,15.0,30.1872771,-97.6066035,car_repair, point_of_interest, store, establishment,,,,Central
+783,Sonic Drive-In,3.3,439.0,30.179966200000003,-97.6144239,restaurant, food, point_of_interest, store, establishment,,,Central
+0,Graffiti Park at Castle Hill,4.4,3677.0,30.276165000000002,-97.753309,tourist_attraction, point_of_interest, establishment,,,,,North
+3,The Carillon,4.4,107.0,30.2815251,-97.7401848,bar, restaurant, food, point_of_interest, establishment,,,North
+601,Battle Bend Neighborhood Park,4.1,144.0,30.2139839,-97.76805,park, tourist_attraction, point_of_interest, establishment,,,,North
+6,Springdale Shopping Center,3.9,1642.0,30.312821399999997,-97.6639589,shopping_mall, point_of_interest, establishment,,,,,North
+7,Dottie Jordan Neighborhood Park,4.4,244.0,30.314151300000002,-97.6739718,park, tourist_attraction, point_of_interest, establishment,,,,North
+8,The Silver Medal,4.8,38.0,30.322781199999998,-97.6825918,restaurant, bar, food, point_of_interest, establishment,,,North
+10,Allen Park,4.5,66.0,30.344571000000002,-97.75469840000001,park, tourist_attraction, point_of_interest, establishment,,,,North
+11,Far West Retail Center,4.4,9.0,30.355030300000003,-97.7555382,shopping_mall, point_of_interest, establishment,,,,,North
+13,Tee's Donut's,5.0,10.0,30.356193400000002,-97.7579535,restaurant, food, point_of_interest, establishment,,,,North
+26,Little Deli & Pizzeria,4.8,125.0,30.31423,-97.6900205,restaurant, food, point_of_interest, store, establishment,,,North
+29,Goat Cave Karst Nature Preserve,3.9,74.0,30.1985326,-97.84716490000001,tourist_attraction, park, point_of_interest, establishment,,,,Central
+30,Heart Of Texas Shopping Center,4.5,68.0,30.200279300000002,-97.8382127,shopping_mall, point_of_interest, establishment,,,,,North
+31,Western Oaks Trail,4.3,3.0,30.207080100000002,-97.8592787,tourist_attraction, point_of_interest, establishment,,,,,North
+32,Alma's Tacos,4.7,71.0,30.20084959999999,-97.8380238,restaurant, food, point_of_interest, establishment,,,,North
+33,Counselor Drive Vineyard,4.0,3.0,30.200849800000004,-97.8432982,bar, point_of_interest, establishment,,,,,North
+365,Moonlight Tower - Zilker Park,4.7,15.0,30.266383299999998,-97.7711897,point_of_interest, establishment,,,,,,North
+19,Mueller Regional Retail Center,4.5,60.0,30.305776300000005,-97.7097641,shopping_mall, point_of_interest, establishment,,,,,North
+20,Mueller Lake Park,4.7,3571.0,30.296770600000002,-97.7058523,park, tourist_attraction, point_of_interest, establishment,,,,North
+21,L'Oca d'Oro,4.5,352.0,30.2972489,-97.7046722,bar, restaurant, food, point_of_interest, store, establishment,,North
+23,Thinkery,4.7,3535.0,30.297417,-97.704971,tourist_attraction, museum, point_of_interest, establishment,,,,North
+24,Windsor Village Shopping Center,4.0,448.0,30.3122261,-97.6919897,shopping_mall, point_of_interest, establishment,,,,,North
+34,Industrial Park,5.0,3.0,30.342240000000004,-97.6712023,park, point_of_interest, establishment,,,,,North
+86,Delwood Shopping Center,4.1,301.0,30.2955902,-97.7178907,shopping_mall, point_of_interest, establishment,,,,,North
+87,Elisabet Ney Museum,4.7,247.0,30.3066213,-97.72625440000002,museum, tourist_attraction, point_of_interest, establishment,,,,North
+88,Camila's Tacos,5.0,16.0,30.293853000000002,-97.716193,restaurant, food, point_of_interest, establishment,,,,North
+90,Wall of Welcome,4.3,4.0,30.342688,-97.7252901,tourist_attraction, point_of_interest, establishment,,,,,North
+91,Allandale Village Shopping Center,4.3,874.0,30.333899699999996,-97.7407896,shopping_mall, point_of_interest, establishment,,,,,North
+93,Paprika ATX,5.0,22.0,30.3333202,-97.72130190000001,restaurant, food, point_of_interest, establishment,,,,North
+95,Austin Museum of Popular Culture,4.5,150.0,30.3326086,-97.7235115,art_gallery, tourist_attraction, museum, point_of_interest, establishment,,,North
+96,Gatling Gun Park,4.5,31.0,30.1620624,-97.85188259999998,park, tourist_attraction, point_of_interest, establishment,,,,Central
+97,"Something Borrowed, Inc.",5.0,1.0,30.1441588,-97.8366196,point_of_interest, clothing_store, store, establishment,,,,South
+101,Boggy Creek Greenbelt,4.5,105.0,30.269790000000004,-97.71247900000002,park, tourist_attraction, point_of_interest, establishment,,,,North
+102,Eastland Plaza,4.0,762.0,30.2717404,-97.69781280000001,shopping_mall, point_of_interest, establishment,,,,,North
+103,Museum of Natural & Artificial Ephemerata,4.5,21.0,30.280184100000003,-97.7153621,museum, tourist_attraction, point_of_interest, establishment,,,,North
+104,El Coqui,4.8,238.0,30.280883199999998,-97.7130941,restaurant, food, point_of_interest, establishment,,,,North
+105,Govalle Pecan Grove,5.0,2.0,30.268684000000004,-97.700581,point_of_interest, establishment,,,,,,North
+107,Brownie Neighborhood Park,3.5,51.0,30.3639543,-97.68679509999998,park, tourist_attraction, point_of_interest, establishment,,,,North
+108,North Park Shopping Center,4.1,727.0,30.36685049999999,-97.6959447,shopping_mall, point_of_interest, establishment,,,,,North
+110,Sabor Cubano El Habanero,5.0,14.0,30.373699300000002,-97.6881959,restaurant, food, point_of_interest, establishment,,,,North
+111,Peluquería Eduardo,5.0,1.0,30.2267107,-97.7025385,shopping_mall, point_of_interest, establishment,,,,,North
+112,Montopolis Practice Fields,3.8,4.0,30.2321683,-97.691369,park, point_of_interest, establishment,,,,,North
+113,The Bistro,4.0,31.0,30.217840000000002,-97.68752940000002,bar, restaurant, food, point_of_interest, establishment,,,North
+114,White Light Studios,4.8,9.0,30.233687,-97.694328,museum, point_of_interest, establishment,,,,,North
+130,Eddie V's Prime Seafood,4.7,926.0,30.389601399999997,-97.75301209999999,night_club, meal_takeaway, bar, restaurant, food, point_of_interest, establishment,North
+131,Forum,4.1,26.0,30.280619800000004,-97.8072167,shopping_mall, point_of_interest, establishment,,,,,North
+132,Jason's Deli,4.4,235.0,30.275279100000002,-97.8005115,restaurant, food, point_of_interest, establishment,,,,North
+83,Mayfield Park and Nature Preserve,4.7,1504.0,30.312973600000003,-97.77162,tourist_attraction, park, point_of_interest, establishment,,,,North
+84,The Beer Plant,4.6,1013.0,30.296611199999997,-97.7677564,bar, restaurant, food, point_of_interest, establishment,,,North
+85,Texas Military Forces Museum,4.8,876.0,30.313869,-97.7613441,museum, tourist_attraction, point_of_interest, establishment,,,,North
+115,Corners II Shopping Center,4.3,3.0,30.241999,-97.7815734,shopping_mall, point_of_interest, establishment,,,,,North
+121,Shops at Steiner Ranch,4.2,25.0,30.36944,-97.89287409999999,shopping_mall, point_of_interest, establishment,,,,,North
+123,Lakeside Pizza & Grill,4.2,310.0,30.370207300000004,-97.8930454,restaurant, food, point_of_interest, establishment,,,,North
+124,Highland Village,4.4,292.0,30.336729499999997,-97.7170506,shopping_mall, point_of_interest, establishment,,,,,North
+125,Highland Neighborhood Park,4.2,106.0,30.3361716,-97.7135781,park, tourist_attraction, point_of_interest, establishment,,,,North
+126,Chago's,4.6,853.0,30.3403151,-97.7170198,restaurant, food, point_of_interest, establishment,,,,North
+127,Steck Valley Greenbelt,4.1,47.0,30.3824844,-97.7583875,park, tourist_attraction, point_of_interest, establishment,,,,North
+128,The Arboretum,4.4,2561.0,30.3922683,-97.7482011,shopping_mall, point_of_interest, establishment,,,,,North
+701,Fish Pond Pavilion,4.5,6.0,30.359375300000004,-97.7341903,park, point_of_interest, establishment,,,,,North
+151,Austin Aquarium,4.3,5503.0,30.449901899999997,-97.792278,aquarium, tourist_attraction, museum, point_of_interest, establishment,,,North
+152,Reale's Italian Cafe,4.5,781.0,30.446308399999996,-97.7911408,bar, restaurant, food, point_of_interest, establishment,,,North
+153,Heritage Neighborhood,2.5,2.0,30.3006209,-97.7430379,tourist_attraction, point_of_interest, establishment,,,,,North
+155,Texas Memorial Museum,4.5,304.0,30.286991999999998,-97.732352,museum, tourist_attraction, point_of_interest, establishment,,,,North
+156,Island Thyme Grill,5.0,21.0,30.2957585,-97.7421371,restaurant, food, point_of_interest, establishment,,,,North
+62,The Boardwalk at Lady Bird Lake,4.8,415.0,30.2455552,-97.7237108,tourist_attraction, point_of_interest, establishment,,,,,North
+63,JNL Barbecue,5.0,38.0,30.241686100000003,-97.7268397,restaurant, food, point_of_interest, establishment,,,,North
+64,Tom Lasseter South Lamar Neighborhood Park,4.3,79.0,30.241326,-97.779042,park, tourist_attraction, point_of_interest, establishment,,,,North
+65,Corners Shopping Center,4.1,462.0,30.2415147,-97.7836314,shopping_mall, point_of_interest, establishment,,,,,North
+66,Joslin Neighborhood Park,4.5,105.0,30.228657199999997,-97.7919781,tourist_attraction, park, point_of_interest, establishment,,,,North
+394,Sunset Valley Nature Area,4.8,6.0,30.2210265,-97.8189558,park, point_of_interest, establishment,,,,,North
+67,512 Crunch Bar,5.0,12.0,30.239323100000004,-97.79125520000001,bakery, restaurant, food, point_of_interest, store, establishment,,North
+161,500 North Lamar,4.1,17.0,30.270733,-97.7549208,shopping_mall, point_of_interest, establishment,,,,,North
+163,Always Hungry,5.0,26.0,30.270032300000004,-97.75043420000002,restaurant, food, point_of_interest, establishment,,,,North
+164,Moonlight Tower,4.0,1.0,30.2777212,-97.7541757,point_of_interest, establishment,,,,,,North
+165,Umlauf Sculpture Garden & Museum,4.5,717.0,30.263258299999997,-97.7661556,museum, tourist_attraction, point_of_interest, establishment,,,,North
+166,Windmill Run Park,4.7,139.0,30.2373311,-97.8915186,park, tourist_attraction, point_of_interest, establishment,,,,North
+167,Barton Creek Habitat Preserve,2.0,1.0,30.2479963,-97.8904309,park, point_of_interest, establishment,,,,,North
+250,Citizen Eatery,4.5,984.0,30.321686800000002,-97.7390392,restaurant, bar, food, point_of_interest, establishment,,,North
+251,Landmark Surveying LP,5.0,1.0,30.3222137,-97.7557166,point_of_interest, establishment,,,,,,North
+252,Moore-Hancock Farmstead,5.0,1.0,30.3208956,-97.74143690000001,museum, point_of_interest, establishment,,,,,North
+253,Scofield Farms Neighborhood Park,4.1,63.0,30.4176597,-97.6806551,park, tourist_attraction, point_of_interest, establishment,,,,North
+254,Tech.ridge Plaza Bldg 12,4.6,7.0,30.4121281,-97.67589040000001,shopping_mall, point_of_interest, establishment,,,,,North
+256,Taco Miendo,4.9,43.0,30.415158,-97.6959557,restaurant, food, point_of_interest, establishment,,,,North
+258,take heart,4.8,55.0,30.268188800000004,-97.7268333,home_goods_store, point_of_interest, clothing_store, store, establishment,,,North
+259,Haunted ATX,4.8,60.0,30.264968900000003,-97.73413190000001,tourist_attraction, travel_agency, point_of_interest, establishment,,,,North
+261,Landmark Surveying,3.7,9.0,30.2589364,-97.7186548,point_of_interest, establishment,,,,,,North
+262,George Washington Carver Museum,4.6,301.0,30.270034999999996,-97.7240078,museum, tourist_attraction, point_of_interest, establishment,,,,North
+266,Papalote Taco House,4.6,935.0,30.2435217,-97.7818972,restaurant, food, point_of_interest, establishment,,,,North
+269,Anemometer Point,5.0,1.0,30.401773499999997,-97.7262881,tourist_attraction, point_of_interest, establishment,,,,,North
+270,Balcones Woods,4.1,333.0,30.4080538,-97.7465132,shopping_mall, point_of_interest, establishment,,,,,North
+305,Saint Merryn Greenbelt,4.3,3.0,30.3470799,-97.6100458,park, point_of_interest, establishment,,,,,North
+306,Lizs Grill,4.3,93.0,30.3428548,-97.6127681,restaurant, meal_takeaway, food, point_of_interest, establishment,,,North
+413,Wings To Go,5.0,29.0,30.3621522,-97.6986238,restaurant, food, point_of_interest, establishment,,,,North
+420,Colony Park District Park,4.1,134.0,30.2993006,-97.63752780000002,park, tourist_attraction, point_of_interest, establishment,,,,North
+422,Tacos,4.4,45.0,30.30790709999999,-97.64281240000001,restaurant, food, point_of_interest, establishment,,,,North
+429,Northwest Balcones Park,4.7,79.0,30.4263309,-97.801855,park, tourist_attraction, point_of_interest, establishment,,,,North
+430,Canyon Vista Pool,3.7,3.0,30.427987199999997,-97.7853525,park, point_of_interest, establishment,,,,,North
+433,The Domain,4.5,9912.0,30.4006016,-97.7251211,shopping_mall, point_of_interest, establishment,,,,,North
+436,Friendship Statue,5.0,1.0,30.403972399999997,-97.723509,point_of_interest, establishment,,,,,,North
+437,Salón de Belleza Constellacion,4.8,4.0,30.2803729,-97.6458885,shopping_mall, point_of_interest, establishment,,,,,North
+438,MLK Crossing - Walnut Creek Trail,5.0,3.0,30.2834168,-97.6549708,park, point_of_interest, establishment,,,,,North
+439,Taqueria Michoacan,4.8,13.0,30.2803729,-97.6458885,restaurant, food, point_of_interest, establishment,,,,North
+442,La Flor,4.8,97.0,30.214424199999996,-97.7766095,meal_takeaway, restaurant, food, point_of_interest, establishment,,,North
+444,Walnut Creek Greenbelt,4.5,234.0,30.382953399999998,-97.6643856,park, tourist_attraction, point_of_interest, establishment,,,,North
+447,Taqueria Montenegro,4.6,219.0,30.3776202,-97.6770773,restaurant, food, point_of_interest, establishment,,,,North
+451,Erin’s Home,3.0,1.0,30.431368,-97.719282,point_of_interest, establishment,,,,,,North
+454,CrossPointe Church,4.1,14.0,30.44587229999999,-97.73263259999999,church, place_of_worship, point_of_interest, establishment,,,,North
+455,Sophie's Restaurant Bar & Grill,4.0,45.0,30.4415837,-97.7454635,restaurant, food, point_of_interest, establishment,,,,North
+456,Big Walnut Creek Nature Preserve,4.0,40.0,30.3261124,-97.6512985,tourist_attraction, park, point_of_interest, establishment,,,,North
+461,Town Lake,4.7,90.0,30.250541100000003,-97.7374331,tourist_attraction, park, point_of_interest, establishment,,,,North
+462,Coco Coquette,4.8,64.0,30.2558333,-97.7216667,hair_care, jewelry_store, point_of_interest, store, establishment,,,North
+464,Bufalina Pizza,4.6,715.0,30.258394,-97.72886700000001,bar, restaurant, food, point_of_interest, establishment,,,North
+468,Lookout Point,4.0,1.0,30.312825300000004,-97.7717796,park, point_of_interest, establishment,,,,,North
+310,Kyote Junction,4.9,11.0,30.2591848,-97.7115457,restaurant, food, point_of_interest, establishment,,,,North
+478,Bolm District Park,3.8,17.0,30.255559899999998,-97.6744453,park, tourist_attraction, point_of_interest, establishment,,,,North
+563,Museum of the Weird,4.2,1952.0,30.2671667,-97.7386667,museum, tourist_attraction, point_of_interest, establishment,,,,North
+168,Shore Raw Bar & Grill,4.4,335.0,30.249765600000003,-97.8950415,restaurant, food, point_of_interest, establishment,,,,North
+169,The Swiss Consulate Austin,5.0,1.0,30.2438662,-97.8988865,point_of_interest, establishment,,,,,,North
+173,Epic Poke,4.9,281.0,30.3221913,-97.6957943,meal_takeaway, restaurant, food, point_of_interest, establishment,,,North
+174,Playground,4.3,3.0,30.4288196,-97.6620071,park, point_of_interest, establishment,,,,,North
+116,Gillis Neighborhood Park,4.0,232.0,30.2406795,-97.7594275,park, tourist_attraction, point_of_interest, establishment,,,,North
+177,Hatley Fields,4.5,13.0,30.275077500000002,-97.7877421,park, point_of_interest, establishment,,,,,North
+453,McNeil Crossing,4.3,116.0,30.442245500000002,-97.7448723,shopping_mall, point_of_interest, establishment,,,,,North
+70,Upper Bull Creek,4.3,16.0,30.403637100000005,-97.7856618,park, tourist_attraction, point_of_interest, establishment,,,,North
+72,The Hump,4.2,5.0,30.4031243,-97.7669984,bar, point_of_interest, establishment,,,,,North
+73,Balcones District Park,4.5,488.0,30.412894,-97.7202745,park, tourist_attraction, point_of_interest, establishment,,,,North
+74,Yett Creek Neighborhood Park,4.4,84.0,30.428851899999998,-97.73464609999999,park, tourist_attraction, point_of_interest, establishment,,,,North
+339,Alli Mexican cuisine,4.5,148.0,30.3600468,-97.70415770000001,restaurant, food, point_of_interest, establishment,,,,North
+35,El Sabor Mexicano,4.7,9.0,30.3512026,-97.6731692,restaurant, food, point_of_interest, establishment,,,,North
+36,Slaughter Creek At Twin Oaks Greenbelt,4.5,11.0,30.156436499999998,-97.797836,park, tourist_attraction, point_of_interest, establishment,,,,Central
+37,The Shops At Onion Creek,4.3,6.0,30.1375158,-97.7962887,shopping_mall, point_of_interest, establishment,,,,,South
+39,Opera Café & Coffeehouse,4.5,186.0,30.1372164,-97.7957896,meal_takeaway, cafe, restaurant, food, point_of_interest, store, establishment,South
+41,North Star Greenbelt,4.5,113.0,30.394061800000003,-97.6973789,park, tourist_attraction, point_of_interest, establishment,,,,North
+42,Midtown Center,4.2,47.0,30.382025,-97.6852988,shopping_mall, point_of_interest, establishment,,,,,North
+43,Walnut Creek Metropolitan Park,4.7,2327.0,30.4008039,-97.686422,tourist_attraction, park, point_of_interest, establishment,,,,North
+44,Santorini Cafe,4.8,1328.0,30.3877289,-97.6841055,cafe, restaurant, food, point_of_interest, establishment,,,North
+45,Barton Creek Wilderness Park,4.7,159.0,30.258592100000005,-97.8241657,tourist_attraction, park, point_of_interest, establishment,,,,North
+46,Sculpture Falls,4.8,408.0,30.26185019999999,-97.8235253,tourist_attraction, natural_feature, point_of_interest, establishment,,,,North
+133,Crestmont Park,4.2,6.0,30.322540000000004,-97.74277370000001,park, tourist_attraction, point_of_interest, establishment,,,,North
+134,Rosedale Village Shopping Center,4.3,20.0,30.319038800000005,-97.7395272,shopping_mall, point_of_interest, establishment,,,,,North
+136,Gyro Center,5.0,32.0,30.3150178,-97.74142140000001,restaurant, food, point_of_interest, establishment,,,,North
+137,Seiders Oaks,5.0,1.0,30.3059697,-97.747716,tourist_attraction, point_of_interest, establishment,,,,,North
+139,Remembrance Tower,1.0,4.0,30.33812279999999,-97.6927519,park, point_of_interest, establishment,,,,,North
+140,Carwash,3.2,5.0,30.3509734,-97.67683659999999,shopping_mall, car_wash, point_of_interest, establishment,,,,North
+142,Ken's Tacos,4.6,1420.0,30.3516642,-97.6759492,restaurant, food, point_of_interest, establishment,,,,North
+143,Wonderspaces Austin,4.3,200.0,30.34349719999999,-97.6851782,museum, point_of_interest, establishment,,,,,North
+145,Shady Hollow Village,4.4,92.0,30.184824100000004,-97.847902,shopping_mall, point_of_interest, establishment,,,,,Central
+146,William H. Russell Karst Preserve,4.2,26.0,30.1932339,-97.850287,tourist_attraction, park, point_of_interest, establishment,,,,Central
+147,Maudie's Hacienda,4.3,1200.0,30.183209100000003,-97.8476835,restaurant, food, point_of_interest, establishment,,,,Central
+54,Taco bella’s food trailer,5.0,31.0,30.179508799999997,-97.84055,restaurant, food, point_of_interest, establishment,,,,Central
+55,Landmark at Prescott Woods Apartment Homes,3.8,88.0,30.1813081,-97.8396213,real_estate_agency, point_of_interest, establishment,,,,,Central
+159,The Black Forest,4.6,30.0,30.221255300000003,-97.6613902,restaurant, food, point_of_interest, establishment,,,,North
+183,El Perrito ATX,4.9,14.0,30.2794521,-97.681569,restaurant, food, point_of_interest, establishment,,,,North
+185,Tanglewood Village Shopping Center,4.2,1290.0,30.174800800000003,-97.8258045,shopping_mall, point_of_interest, establishment,,,,,Central
+186,Howellwood Park,5.0,1.0,30.1760984,-97.8327542,park, point_of_interest, establishment,,,,,Central
+187,China Dynasty,4.2,307.0,30.1748006,-97.8270063,meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment,,Central
+191,Cafe Java,4.7,2176.0,30.400059000000002,-97.7041975,restaurant, cafe, food, point_of_interest, store, establishment,,North
+192,Oertli Neighborhood Park,2.0,2.0,30.3960783,-97.65091159999999,park, tourist_attraction, point_of_interest, establishment,,,,North
+195,Tortilleria Rio Grande,4.1,407.0,30.3767891,-97.6733157,restaurant, food, point_of_interest, establishment,,,,North
+197,Stillhouse Hollow Nature Preserve,4.4,57.0,30.3691072,-97.7620906,tourist_attraction, park, point_of_interest, establishment,,,,North
+200,Jan Chi Korean Cuisine & BBQ,4.9,72.0,30.365006599999997,-97.74901240000001,restaurant, food, point_of_interest, establishment,,,,North
+732,South Brook Town Center,4.1,772.0,30.1904049,-97.767894,shopping_mall, point_of_interest, establishment,,,,,Central
+734,East Buffet,4.1,1605.0,30.190212899999995,-97.7679715,restaurant, food, point_of_interest, establishment,,,,Central
+736,Upper McKinney Falls,4.6,143.0,30.18454079999999,-97.72568259999998,tourist_attraction, point_of_interest, establishment,,,,,Central
+739,Subway,4.1,239.0,30.204845799999998,-97.7164844,meal_takeaway, restaurant, food, point_of_interest, establishment,,,North
+740,El Camino Real,4.6,14.0,30.188041700000003,-97.7209556,point_of_interest, establishment,,,,,,Central
+743,Sneed House,3.6,10.0,30.192212100000003,-97.7647912,tourist_attraction, point_of_interest, establishment,,,,,Central
+746,1st creek crossing,5.0,1.0,30.4104157,-97.7565834,park, point_of_interest, establishment,,,,,North
+752,Kristull Ranch,4.8,20.0,30.161323,-97.763899,tourist_attraction, point_of_interest, establishment,,,,,Central
+175,Ka-Prow Thai and Sushi Bistro,4.5,668.0,30.424688800000002,-97.6699463,restaurant, food, point_of_interest, establishment,,,,North
+176,Shops at Mira Vista,4.4,300.0,30.270657,-97.78781490000001,shopping_mall, grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment,North
+178,CAVA,4.5,270.0,30.273055699999997,-97.7992288,restaurant, food, point_of_interest, establishment,,,,North
+180,Portofino Springs,4.5,2.0,30.280646,-97.69155,tourist_attraction, point_of_interest, establishment,,,,,North
+230,Airport Xpress Market,4.4,55.0,30.2102543,-97.651808,supermarket, gas_station, grocery_or_supermarket, liquor_store, restaurant, food, point_of_interest,North
+233,Olympic Heights Community Park,4.1,23.0,30.150762,-97.8414689,park, point_of_interest, establishment,,,,,Central
+15,Landmark Conservancy,3.5,41.0,30.2596061,-97.9022498,point_of_interest, establishment,,,,,,North
+16,Louis René Barrera Indiangrass Wildlife Sanctuary,4.8,8.0,30.316323600000004,-97.59282490000001,park, tourist_attraction, point_of_interest, establishment,,,,North
+18,giant spider sculpture,4.7,60.0,30.2893729,-97.69927159999999,tourist_attraction, point_of_interest, establishment,,,,,North
+481,Taqueria La Libertad,4.9,16.0,30.266159000000002,-97.69541540000002,restaurant, food, point_of_interest, establishment,,,,North
+482,Sekrit Theater,4.7,105.0,30.259358000000002,-97.683807,movie_theater, point_of_interest, establishment,,,,,North
+483,Sweeten My Day Mural,1.0,1.0,30.2521738,-97.6982736,museum, point_of_interest, establishment,,,,,North
+285,El Huarache,4.3,326.0,30.436210499999998,-97.6845308,restaurant, food, point_of_interest, establishment,,,,North
+286,Ron Rigsby Pocket Park,4.2,44.0,30.3643283,-97.7052679,park, tourist_attraction, point_of_interest, establishment,,,,North
+288,Wooten Neighborhood Park,4.4,104.0,30.3542211,-97.7202848,park, tourist_attraction, point_of_interest, establishment,,,,North
+289,Tan My Restaurant,4.6,1061.0,30.36375,-97.7143031,restaurant, food, point_of_interest, establishment,,,,North
+487,Chuy's,4.4,3646.0,30.418271,-97.7479514,restaurant, food, point_of_interest, establishment,,,,North
+488,"Austin Landmark Property Services, Inc. CRMC®, Licensed Texas Realtors®",4.5,99.0,30.415342699999997,-97.7477725,real_estate_agency, point_of_interest, establishment,,,,,North
+490,North Park,4.5,2.0,30.45847969999999,-97.6533699,park, point_of_interest, establishment,,,,,North
+492,Landmark Nurseries,4.0,19.0,30.4596451,-97.65409040000002,point_of_interest, establishment,,,,,,North
+496,Diocese of Austin,4.5,48.0,30.321415999999996,-97.7018625,tourist_attraction, church, place_of_worship, point_of_interest, establishment,,,North
+501,Blunn Creek Nature Preserve,4.6,10.0,30.2328939,-97.7473141,tourist_attraction, park, point_of_interest, establishment,,,,North
+502,ReVive!,4.7,32.0,30.2229967,-97.74586009999999,restaurant, food, point_of_interest, establishment,,,,North
+503,Mueller Sunflowers,2.7,9.0,30.306612800000003,-97.7126821,museum, tourist_attraction, point_of_interest, establishment,,,,North
+506,Jewboy Burgers,4.9,573.0,30.3127408,-97.7150455,restaurant, food, point_of_interest, establishment,,,,North
+509,Waterloo Ice House Escarpment,4.3,628.0,30.203483600000002,-97.87890820000001,bar, restaurant, food, point_of_interest, establishment,,,North
+207,Taqueria Mi Trailita,4.7,308.0,30.2999967,-97.6854754,restaurant, food, point_of_interest, establishment,,,,North
+215,Littlefield Fountain,4.7,336.0,30.28386029999999,-97.7396014,tourist_attraction, point_of_interest, establishment,,,,,North
+47,South Congress Square,4.2,93.0,30.2374261,-97.753006,shopping_mall, point_of_interest, establishment,,,,,North
+49,Flavia’s Kitchen,5.0,25.0,30.2418788,-97.758414,restaurant, food, point_of_interest, establishment,,,,North
+50,Establishment,4.1,43.0,30.231082,-97.76629,point_of_interest, establishment,,,,,,North
+51,The Art of Ice Cream Experience,3.5,62.0,30.230744,-97.759996,museum, point_of_interest, establishment,,,,,North
+52,Woodlands Park,4.8,6.0,30.179144,-97.84119090000002,park, tourist_attraction, point_of_interest, establishment,,,,Central
+402,Chinatown Center,4.3,2068.0,30.378122899999997,-97.6862827,shopping_mall, point_of_interest, establishment,,,,,North
+754,Fruttilandia,4.4,23.0,30.1805271,-97.74723259999999,restaurant, food, point_of_interest, establishment,,,,Central
+755,Southpark Meadows,4.4,7701.0,30.161274300000002,-97.7917681,shopping_mall, point_of_interest, establishment,,,,,Central
+757,Kikos Tacos,5.0,12.0,30.1604322,-97.7777062,restaurant, food, point_of_interest, establishment,,,,Central
+99,Sala Thai Food,4.8,39.0,30.1492035,-97.84290490000001,restaurant, food, point_of_interest, establishment,,,,South
+234,Valentina's Tex Mex BBQ,4.7,3232.0,30.1530326,-97.8337941,restaurant, food, point_of_interest, establishment,,,,Central
+237,Parmer Crossing,4.1,1604.0,30.422051899999996,-97.7017436,shopping_mall, point_of_interest, establishment,,,,,North
+240,Southwood Shopping Center,4.0,426.0,30.2272864,-97.7843603,shopping_mall, point_of_interest, establishment,,,,,North
+245,Austin's Pizza Cuernavaca,4.1,125.0,30.34035699999999,-97.8632,meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment,,North
+272,Q Bolá Cuba,4.9,73.0,30.398143100000006,-97.7269212,restaurant, food, point_of_interest, establishment,,,,North
+273,Landmark Consolidated,3.0,2.0,30.404736800000002,-97.7463627,point_of_interest, establishment,,,,,,North
+274,Armadillo Neighborhood Park,4.0,87.0,30.200090600000003,-97.7920554,park, tourist_attraction, point_of_interest, establishment,,,,North
+280,Longview Neighborhood Park,4.5,250.0,30.202471799999998,-97.8262574,park, tourist_attraction, point_of_interest, establishment,,,,North
+283,The Shops at Wells Branch,4.2,77.0,30.438397,-97.69747790000001,shopping_mall, point_of_interest, establishment,,,,,North
+284,Wells Creek Greenbelt,4.1,14.0,30.423412899999995,-97.6843717,park, point_of_interest, establishment,,,,,North
+763,Luby's,4.2,1247.0,30.170170199999998,-97.7975856,restaurant, food, point_of_interest, establishment,,,,Central
+765,Viva Pueblito,4.7,3.0,30.15518579999999,-97.64130759999999,finance, point_of_interest, store, establishment,,,,Central
+766,Old Moore's Crossing Neighborhood Park,1.0,1.0,30.153680800000004,-97.64501329999999,park, point_of_interest, establishment,,,,,Central
+767,Los 4 Hermanos Neveria Y Fruteria #2,3.8,79.0,30.155252500000003,-97.6413542,restaurant, food, point_of_interest, establishment,,,,Central
+700,The Village,4.2,546.0,30.358868599999997,-97.73449129999999,shopping_mall, point_of_interest, establishment,,,,,North
+290,Gary Fish Memorial Hallway,4.5,2.0,30.3584989,-97.709675,museum, point_of_interest, establishment,,,,,North
+292,Barton Creek Square,4.3,6717.0,30.25765269999999,-97.8072545,shopping_mall, point_of_interest, establishment,,,,,North
+294,"Rudy's ""Country Store"" and Bar-B-Q",4.6,1750.0,30.263580199999996,-97.81549840000001,restaurant, food, point_of_interest, establishment,,,,North
+295,Quail Creek Neighborhood Park,4.2,329.0,30.36894969999999,-97.7012809,park, tourist_attraction, point_of_interest, establishment,,,,North
+299,Covert Park at Mount Bonnell,4.7,4219.0,30.321672200000002,-97.7732083,park, tourist_attraction, point_of_interest, establishment,,,,North
+301,Chez Zee American Bistro,4.4,1613.0,30.336684,-97.75796290000001,bakery, bar, restaurant, food, point_of_interest, store, establishment,North
+309,Givens District Park,4.2,513.0,30.276265000000002,-97.691812,park, tourist_attraction, point_of_interest, establishment,,,,North
+316,Longhorn Dam,5.0,8.0,30.2504657,-97.7136022,point_of_interest, establishment,,,,,,North
+325,Love Is The Question Mural,4.0,3.0,30.279958299999997,-97.7589142,tourist_attraction, point_of_interest, establishment,,,,,North
+328,Jeffrey's,4.7,484.0,30.280423,-97.7591146,bar, restaurant, food, point_of_interest, establishment,,,North
+332,Shops at Tech Ridge,4.3,629.0,30.4148026,-97.67090300000001,shopping_mall, point_of_interest, establishment,,,,,North
+334,Tortilleria Krystal,4.0,288.0,30.4086239,-97.6482754,restaurant, food, point_of_interest, establishment,,,,North
+341,Hielscher Tract Greenbelt,4.6,19.0,30.1939619,-97.8983906,park, point_of_interest, establishment,,,,,Central
+343,Commons Ford Ranch Metropolitan Park,4.6,270.0,30.33630509999999,-97.891369,park, tourist_attraction, point_of_interest, establishment,,,,North
+345,World's Largest Longhorn,3.8,15.0,30.286198600000002,-97.7425615,tourist_attraction, point_of_interest, establishment,,,,,North
+351,Bee Creek Slew,5.0,1.0,30.307022999999997,-97.8120145,park, point_of_interest, establishment,,,,,North
+517,Stone Windmill,4.4,7.0,30.2845841,-97.76571209999999,point_of_interest, establishment,,,,,,North
+353,Ecology Action - Circle Acres Nature Preserve,4.5,10.0,30.2409587,-97.69710140000001,tourist_attraction, park, point_of_interest, establishment,,,,North
+354,Delmy's Pupuseria,4.7,134.0,30.226416999999998,-97.705416,restaurant, food, point_of_interest, establishment,,,,North
+358,Mission Street Burrito,5.0,23.0,30.2430858,-97.7304463,restaurant, food, point_of_interest, establishment,,,,North
+359,Willie For President Mural,4.7,44.0,30.24889769999999,-97.7496196,point_of_interest, establishment,,,,,,North
+361,Zilker Holiday Tree,4.7,51.0,30.266219399999997,-97.7712406,tourist_attraction, point_of_interest, establishment,,,,,North
+362,Lamar Union Plaza,4.4,375.0,30.2557961,-97.7627332,shopping_mall, point_of_interest, establishment,,,,,North
+363,Lou Neff Point,4.8,304.0,30.2672311,-97.7617013,tourist_attraction, park, point_of_interest, establishment,,,,North
+364,Austin foody Moody,5.0,28.0,30.2518608,-97.75388690000001,restaurant, food, point_of_interest, establishment,,,,North
+367,Little Walnut Creek Greenbelt,4.1,89.0,30.298976,-97.6670191,park, tourist_attraction, point_of_interest, establishment,,,,North
+369,Fowler’s Smokin Soul Food,4.8,133.0,30.305823600000004,-97.679847,restaurant, food, point_of_interest, establishment,,,,North
+231,Bauerle Ranch Park,4.5,179.0,30.1619743,-97.840333,park, tourist_attraction, point_of_interest, establishment,,,,Central
+372,Taco Brother,4.8,127.0,30.206862199999996,-97.8356267,restaurant, food, point_of_interest, establishment,,,,North
+374,Mesa Woods Shopping Center,4.5,25.0,30.3727601,-97.75592420000001,shopping_mall, point_of_interest, establishment,,,,,North
+375,Hill School Park,4.8,12.0,30.375635499999998,-97.7486304,park, point_of_interest, establishment,,,,,North
+380,Williamson Creek Greenbelt,4.4,63.0,30.203062699999997,-97.7655657,park, tourist_attraction, point_of_interest, establishment,,,,North
+381,Stassney Heights Shopping Central,4.4,18.0,30.198739,-97.7657693,shopping_mall, point_of_interest, establishment,,,,,Central
+383,Trudy's South Star,4.1,2450.0,30.197231800000004,-97.7670715,bar, restaurant, food, point_of_interest, establishment,,,Central
+384,The Plantation at Comal Bluff,2.0,1.0,30.1922349,-97.7647921,point_of_interest, establishment,,,,,,Central
+388,Texas DPS Historical Museum & Research Center,4.7,13.0,30.326596000000002,-97.7246002,museum, tourist_attraction, point_of_interest, establishment,,,,North
+389,Cannon Oaks Shopping Center,4.1,143.0,30.2125962,-97.83023979999999,shopping_mall, point_of_interest, establishment,,,,,North
+390,Western Oaks Park and Play,4.1,27.0,30.2205026,-97.85070490000001,park, point_of_interest, establishment,,,,,North
+391,Cafe Malta,4.5,376.0,30.212607799999997,-97.8303015,cafe, bar, restaurant, food, point_of_interest, store, establishment,North
+395,Oye Taquito,4.9,37.0,30.2209289,-97.8264219,restaurant, food, point_of_interest, establishment,,,,North
+399,Honest Mary's,4.6,654.0,30.395195500000003,-97.7477816,restaurant, meal_takeaway, food, point_of_interest, establishment,,,North
+407,The Shops at Arbor Walk,4.2,1687.0,30.3902012,-97.7328251,shopping_mall, point_of_interest, establishment,,,,,North
+411,Northgate Shopping Center,4.1,611.0,30.363069899999996,-97.6981719,shopping_mall, point_of_interest, establishment,,,,,North
+510,Tanglewood Park,4.3,96.0,30.431702,-97.781949,park, tourist_attraction, point_of_interest, establishment,,,,North
+511,Oak Knoll Village,4.1,132.0,30.42875859999999,-97.7603648,shopping_mall, point_of_interest, establishment,,,,,North
+514,Johnson Creek Greenbelt,4.5,81.0,30.2825657,-97.76662590000001,park, tourist_attraction, point_of_interest, establishment,,,,North
+129,Hyridge Creek Park,4.3,4.0,30.3835179,-97.7572221,park, point_of_interest, establishment,,,,,North
+75,Thai Cuisine,4.5,1122.0,30.4255218,-97.7169891,restaurant, food, point_of_interest, establishment,,,,North
+76,South Hills Conservation Area,4.8,33.0,30.2172821,-97.816334,park, tourist_attraction, point_of_interest, establishment,,,,North
+77,Towne Square,4.1,500.0,30.2020527,-97.80600940000001,shopping_mall, point_of_interest, establishment,,,,,North
+78,Garrison Park,4.5,608.0,30.212007,-97.80051800000001,park, tourist_attraction, point_of_interest, establishment,,,,North
+56,Willow Bend Park,4.5,75.0,30.455239799999998,-97.6805839,park, tourist_attraction, point_of_interest, establishment,,,,North
+57,Goodwill,4.7,7.0,30.4604733,-97.6718051,shopping_mall, point_of_interest, establishment,,,,,North
+59,Joe’s Italian Kitchen,4.4,245.0,30.4552146,-97.659496,restaurant, food, point_of_interest, store, establishment,,,North
+60,Landmark Electric,3.5,4.0,30.467178499999996,-97.6620843,point_of_interest, establishment,,,,,,North
+61,Parke Green,4.1,353.0,30.234557300000002,-97.72111650000001,shopping_mall, point_of_interest, establishment,,,,,North
+79,Moreno Barbecue,4.9,69.0,30.215293900000002,-97.7986094,restaurant, food, point_of_interest, establishment,,,,North
+81,Mayfield Cottage and Gardens,4.7,44.0,30.3128341,-97.7713974,park, tourist_attraction, point_of_interest, establishment,,,,North
+82,Casis Shopping Center,4.1,132.0,30.30413609999999,-97.7640833,shopping_mall, point_of_interest, establishment,,,,,North
+149,Spicewood Park,4.8,8.0,30.4464378,-97.8039694,park, tourist_attraction, point_of_interest, establishment,,,,North
+150,Galleria Oaks,4.1,551.0,30.4448534,-97.78935859999999,shopping_mall, point_of_interest, establishment,,,,,North
+515,Eilers (Deep Eddy) Neighborhood Park,4.6,424.0,30.276622999999997,-97.7725719,park, tourist_attraction, point_of_interest, establishment,,,,North
+516,Hula Hut,4.2,4446.0,30.2946928,-97.7844186,restaurant, food, point_of_interest, establishment,,,,North
+519,Stassney Square,4.2,516.0,30.208656400000002,-97.7801396,shopping_mall, point_of_interest, establishment,,,,,North
+524,2n1 Salad Bar and Grill,4.6,170.0,30.382072100000002,-97.6893755,restaurant, food, point_of_interest, store, establishment,,,North
+525,Davenport Village,4.4,197.0,30.33660639999999,-97.8041246,shopping_mall, point_of_interest, establishment,,,,,North
+527,Jade Restaurant,4.4,191.0,30.3352979,-97.804464,restaurant, food, point_of_interest, establishment,,,,North
+529,Burnet Place Center,4.2,17.0,30.3639838,-97.72946359999999,shopping_mall, point_of_interest, establishment,,,,,North
+531,Baby Greens,4.5,144.0,30.3523178,-97.7222035,restaurant, food, point_of_interest, store, establishment,,,North
+534,10204 Tularosa Pass,5.0,1.0,30.430628000000002,-97.820594,point_of_interest, establishment,,,,,,North
+537,Vic and Al's,5.0,72.0,30.284987599999997,-97.7169883,restaurant, food, point_of_interest, establishment,,,,North
+543,Confituras Little Kitchen,4.9,77.0,30.24801149999999,-97.7736107,restaurant, food, point_of_interest, establishment,,,,North
+544,Fairy Alley,4.7,3.0,30.2569908,-97.7636436,museum, point_of_interest, establishment,,,,,North
+550,Lucy Read,4.9,8.0,30.35164129999999,-97.7363227,park, tourist_attraction, point_of_interest, establishment,,,,North
+552,Beverly S. Sheffield Northwest District Park,4.5,426.0,30.348683,-97.74132840000001,park, tourist_attraction, point_of_interest, establishment,,,,North
+553,Tres Monarcas,5.0,18.0,30.344620799999998,-97.736576,restaurant, food, point_of_interest, establishment,,,,North
+555,Creekside Square,4.2,73.0,30.361266399999998,-97.7399603,shopping_mall, point_of_interest, establishment,,,,,North
+559,2nd Street District,4.4,2253.0,30.2655,-97.7471,shopping_mall, point_of_interest, establishment,,,,,North
+561,The Heel of the Boot,5.0,22.0,30.266322,-97.7350602,restaurant, food, point_of_interest, establishment,,,,North
+562,Texas Capitol,4.7,2685.0,30.2746652,-97.7403505,tourist_attraction, local_government_office, point_of_interest, establishment,,,,North
+567,Milano Cafe,4.4,324.0,30.239444399999996,-97.8319444,cafe, restaurant, food, point_of_interest, establishment,,,North
+568,Landmark Exams,5.0,2.0,30.23529569999999,-97.8468646,point_of_interest, establishment,,,,,,North
+573,Fonda San Miguel,4.6,1747.0,30.325570199999998,-97.7433749,bar, restaurant, food, point_of_interest, establishment,,,North
+577,ABBY AT BEN WHITE,4.2,34.0,30.2204609,-97.7569734,shopping_mall, point_of_interest, establishment,,,,,North
+122,JoJo Electro,1.0,1.0,30.3694543,-97.8925345,point_of_interest, establishment,,,,,,North
+579,AUTENTICOS MICHOACANOS,4.7,27.0,30.2186967,-97.76594659999999,restaurant, food, point_of_interest, establishment,,,,North
+581,Bull Creek Market,4.0,23.0,30.3608097,-97.78918440000001,shopping_mall, point_of_interest, establishment,,,,,North
+582,St. Theresa of Lisieux Catholic Church,4.9,73.0,30.3431952,-97.77486460000002,tourist_attraction, church, place_of_worship, point_of_interest, establishment,,,North
+583,County Line,4.4,2937.0,30.357107,-97.78562120000001,bar, restaurant, food, point_of_interest, establishment,,,North
+584,Cook School Park,4.4,49.0,30.37681529999999,-97.7045044,park, point_of_interest, establishment,,,,,North
+585,Los Arcos Taqueria,4.5,53.0,30.377634399999998,-97.7107186,restaurant, food, point_of_interest, establishment,,,,North
+587,Gus Fruh,4.6,198.0,30.247912699999997,-97.79642690000001,tourist_attraction, park, point_of_interest, establishment,,,,North
+591,Landmark Barton Creek Apartments,3.8,88.0,30.2578728,-97.79194,point_of_interest, establishment,,,,,,North
+592,Park,4.1,9.0,30.27810259999999,-97.6279713,park, point_of_interest, establishment,,,,,North
+593,Mi Casita Restaurant,4.2,119.0,30.268336699999995,-97.6268071,restaurant, food, point_of_interest, establishment,,,,North
+5,Bullock Texas State History Museum,4.7,4376.0,30.2802637,-97.7387272,tourist_attraction, museum, point_of_interest, establishment,,,,North
+596,LBJ Presidential Library,4.6,852.0,30.28585589999999,-97.72925440000002,museum, tourist_attraction, point_of_interest, establishment,,,,North
+607,Moonlight Tower - Monroe/S 1st,4.4,7.0,30.249419699999997,-97.7552768,point_of_interest, establishment,,,,,,North
+608,Muse Maison,5.0,1.0,30.2519162,-97.75670720000001,museum, point_of_interest, establishment,,,,,North
+609,Colorado River Park Wildlife Sanctuary,4.0,68.0,30.246767,-97.695284,park, tourist_attraction, point_of_interest, establishment,,,,North
+611,Samy sazón tacos food truck,5.0,36.0,30.2528758,-97.7112382,restaurant, food, point_of_interest, establishment,,,,North
+615,Parmer Lane Plaza,4.2,110.0,30.403532000000002,-97.6758813,shopping_mall, point_of_interest, establishment,,,,,North
+617,Ng Cafe,4.8,426.0,30.411373699999995,-97.67568220000001,restaurant, food, point_of_interest, establishment,,,,North
+619,Central Park Shopping Center,4.6,449.0,30.307515600000002,-97.7403171,shopping_mall, point_of_interest, establishment,,,,,North
+623,Austin Ghost Tours,4.0,24.0,30.228428700000002,-97.8420437,tourist_attraction, travel_agency, point_of_interest, establishment,,,,North
+624,Shops at Arbor Trails,4.4,1219.0,30.221503600000002,-97.8411819,shopping_mall, point_of_interest, establishment,,,,,North
+625,Williamson Creek West Greenbelt,4.8,16.0,30.2261435,-97.841676,park, tourist_attraction, point_of_interest, establishment,,,,North
+626,Cypress Grill,4.6,1471.0,30.2238132,-97.8389198,bar, restaurant, food, point_of_interest, establishment,,,North
+646,Hecho En Mexico Restaurant,4.4,746.0,30.2283738,-97.8633845,bar, restaurant, food, point_of_interest, establishment,,,North
+647,Barrow Nature Preserve,4.2,17.0,30.372171500000004,-97.76875550000001,tourist_attraction, park, point_of_interest, establishment,,,,North
+649,Abandoned VW bus,4.6,18.0,30.3719413,-97.7807188,point_of_interest, establishment,,,,,,North
+652,Killa Wasi,4.8,56.0,30.211302000000003,-97.7360537,restaurant, food, point_of_interest, establishment,,,,North
+655,Rundberg Square Shopping Center,3.9,656.0,30.356613,-97.68656490000001,shopping_mall, point_of_interest, establishment,,,,,North
+661,Riata Neighborhood Park,4.3,62.0,30.42843719999999,-97.73949410000002,park, point_of_interest, establishment,,,,,North
+513,Caspian Grill,4.6,742.0,30.4287212,-97.7604042,restaurant, food, point_of_interest, establishment,,,,North
+671,Tacodeli,4.7,1940.0,30.258465700000002,-97.7875819,restaurant, food, point_of_interest, establishment,,,,North
+673,Austin Nature & Science Center Outpost,5.0,1.0,30.2692436,-97.7792618,museum, point_of_interest, establishment,,,,,North
+676,Statesman Bat Observation Center,4.4,689.0,30.259930800000003,-97.7456007,tourist_attraction, point_of_interest, establishment,,,,,North
+680,Springdale Neighborhood Park,3.0,2.0,30.277513899999995,-97.6820217,park, tourist_attraction, point_of_interest, establishment,,,,North
+689,Houston School Park,4.2,69.0,30.1964787,-97.7554729,park, tourist_attraction, point_of_interest, establishment,,,,Central
+690,AutoNation Toyota Drop Lot,4.0,4.0,30.206839600000002,-97.7612078,shopping_mall, point_of_interest, establishment,,,,,North
+691,Ponciana Neighborhood Park,4.1,48.0,30.200791100000004,-97.75508190000001,park, tourist_attraction, point_of_interest, establishment,,,,North
+692,Taqueria Lopez,4.7,54.0,30.2025688,-97.7522415,restaurant, food, point_of_interest, establishment,,,,North
+693,Austin Rock & Roll Car Museum,4.4,28.0,30.210184,-97.740911,museum, tourist_attraction, point_of_interest, establishment,,,,North
+695,Shoal Creek Greenbelt,4.6,269.0,30.292177600000002,-97.7506211,park, tourist_attraction, point_of_interest, establishment,,,,North
+696,Olive & June,4.4,500.0,30.3073168,-97.7511306,meal_takeaway, bar, restaurant, food, point_of_interest, establishment,,North
+628,Gracywoods Neighborhood Park,4.6,330.0,30.4048608,-97.6963611,park, tourist_attraction, point_of_interest, establishment,,,,North
+638,Triangle Commons Park,4.3,58.0,30.314509899999997,-97.733522,park, tourist_attraction, point_of_interest, establishment,,,,North
+639,Plaza 5000,4.4,32.0,30.318503000000003,-97.7313201,shopping_mall, point_of_interest, establishment,,,,,North
+641,Bistro Vonish,4.7,274.0,30.315285499999998,-97.71663640000001,restaurant, food, point_of_interest, establishment,,,,North
+643,Latta Branch Greenbelt,4.5,91.0,30.2164015,-97.86468740000001,park, tourist_attraction, point_of_interest, establishment,,,,North
+644,Legend Oaks Plaza,4.2,9.0,30.228388,-97.8629149,shopping_mall, point_of_interest, establishment,,,,,North
+702,Eldorado Cafe,4.6,1432.0,30.3618593,-97.7425503,restaurant, food, point_of_interest, establishment,,,,North
+704,Crossroads Shopping Center,4.1,675.0,30.3725459,-97.7274627,shopping_mall, point_of_interest, establishment,,,,,North
+202,Northcross Center,4.4,197.0,30.3551807,-97.7332367,shopping_mall, point_of_interest, establishment,,,,,North
+204,Tea Amo,5.0,18.0,30.355088300000002,-97.7327263,cafe, restaurant, food, point_of_interest, establishment,,,North
+218,Neill-Cochran House Museum,4.5,85.0,30.2874729,-97.7482836,museum, tourist_attraction, point_of_interest, establishment,,,,North
+219,Before I Die Wall Austin TX,4.6,116.0,30.248537199999998,-97.7480186,tourist_attraction, point_of_interest, establishment,,,,,North
+220,Willow Court,4.2,152.0,30.2307792,-97.73212240000001,shopping_mall, point_of_interest, establishment,,,,,North
+223,Larry Monroe Forever Bridge,4.1,8.0,30.2474771,-97.7444058,museum, tourist_attraction, point_of_interest, establishment,,,,North
+229,Gonzalez Guerrero Tire Shop,4.5,60.0,30.2093423,-97.6505327,car_repair, point_of_interest, store, establishment,,,,North
+281,Mami's tacos,4.8,159.0,30.200000300000003,-97.8080369,restaurant, food, point_of_interest, establishment,,,,North
+378,Heritage Oaks Neighborhood Park,4.7,43.0,30.234325899999995,-97.73722729999999,park, tourist_attraction, point_of_interest, establishment,,,,North
+287,Centre North,3.6,16.0,30.351838300000004,-97.7098017,shopping_mall, point_of_interest, establishment,,,,,North
+565,Oak Acres,4.8,5.0,30.2370336,-97.8469136,shopping_mall, point_of_interest, establishment,,,,,North
+260,Burgerlicious,5.0,18.0,30.2727039,-97.7285304,restaurant, food, point_of_interest, establishment,,,,North
+580,P Men's Club,5.0,5.0,30.219131400000002,-97.7582626,bar, point_of_interest, establishment,,,,,North
