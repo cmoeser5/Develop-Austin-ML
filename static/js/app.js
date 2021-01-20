@@ -49,24 +49,24 @@ const handleClick = () => {
         boxes.each(function (d, i) {
             let currentOption = d3.select(this)
             if (currentOption.property("checked")) {
-                selectedBoxes.push((
+                selectedBoxes.push(
                     Object.entries(typeList).forEach((e) => {
                         booleanList.append(selectedBoxes.includes(e))
                     }
-                    currentBox._groups[0].name)
                 )}
-        }
+        });
 
         let lat = d3.select("#lat").property("value")
         let long = d3.select("#long").property("value")
 
         var entry = {
             latitude: lat,
-            longitude: long
-            types: selectedBoxes,
+            longitude: long,
+            types: selectedBoxes
             
         }
     }
+}
 
 d3.selectAll('#submit').on('click', handleClick)
 
@@ -81,5 +81,4 @@ d3.selectAll('#submit').on('click', handleClick)
     // let location = d3.select('#lat-long').property('value')
     // let categories = d3.select('#categories').property('value')
 
-}
 
