@@ -7,23 +7,23 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
 <link rel="stylesheet" type="text/css" href="../static/css/style.css" />
 <style>
-  body, html {
-      height: 100%;
-      font-family: "Inconsolata", sans-serif;
-    }
-    
-    .bgimg {
-      background-position: center;
-      background-size: cover;
-      background-image: url("../images/austin.jpg");
-      min-height: 75%;
-    }
-    
-    .menu {
-      display: none;  
-    }
-</style>
-<body>
+ body, html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+  }
+  
+  .bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../images/austin.jpg");
+    min-height: 75%;
+  }
+  
+  .menu {
+    display: none;
+  }
+  </style>
+  <body>
 
 <!-- Links (sit on top) -->
 <div class="w3-top">
@@ -88,6 +88,7 @@
     <p><strong>Address:</strong> 600 Congress street, Austin</p>
   </div>
 </div>
+
 
 <!-- Contact/Area Container -->
 <div class="w3-container" id="visual" style="padding-bottom:32px;">
@@ -206,7 +207,11 @@
        
       </div>
     </form>
-      
+    <div>
+       <p>
+         {{ prediction }}
+       </p>
+    </div> 
     </div>
     
   </div>
