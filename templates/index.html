@@ -5,22 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+<link rel="stylesheet" type="text/css" href="../static/css/style.css" />
 <style>
-body, html {
-  height: 100%;
-  font-family: "Inconsolata", sans-serif;
-}
 
-.bgimg {
-  background-position: center;
-  background-size: cover;
-  background-image: url("../images/austin.jpg");
-  min-height: 75%;
-}
-
-.menu {
-  display: none;
-}
 </style>
 <body>
 
@@ -145,90 +132,121 @@ body, html {
   <div class="w3-content" style="max-width:700px">
     <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">FIND THE BEST SPOT</span></h5>
     <p>See other locations across Austin using this interactive map.</p>
-    <img src="../images/austin1.jpg" class="w3-image" style="width:100%">
+
+    <div class="row">
+      <div class="column" id="map">
+    </div>
+    <div class="container" class="row">
+        
+    
+      <!-- <div id="latlong"></div>
+      <div id="userlat"></div>
+      <div id="userlng"></div>
+      <div id="Longitude"></div> -->
+    <!-- <img src="../images/austin1.jpg" class="w3-image" style="width:100%">
     <div>
       <a href="https://plotly.com/~akikp/3/?share_key=ZRFYETb2k5d0NXklK4RdPU" target="_blank" title="Plot 3" style="display: block; text-align: center;"><img src="https://plotly.com/~akikp/3.png?share_key=ZRFYETb2k5d0NXklK4RdPU" alt="Plot 3" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
       <script data-plotly="akikp:3" sharekey-plotly="ZRFYETb2k5d0NXklK4RdPU" src="https://plotly.com/embed.js" async></script>
-  </div>
+  </div> -->
     <p><span class="w3-tag">FYI!</span> You can find your ideal location by just selected a few options from below that reflects the kind of business you are interested in.</p>
     
-    <form action="/action_page.php" target="_blank">
-      <input class="w3-input w3-padding-16 w3-border" type="text" id="lat" placeholder="Latitude" required name="Name"></p>
-      <input class="w3-input w3-padding-16 w3-border" type="text" id="long" placeholder="Longitude" required name="Name"></p>
-      <input type="checkbox" id="shopping-mall" name="shopping-mall" value="shopping-mall">
-      <label for="shopping-mall"> Shopping Mall</label><br>
-      <input type="checkbox" id="clothing-store" name="clothing-store" value="clothing-store">
-      <label for="clothing-store"> Clothing Store</label><br>
-      <input type="checkbox" id="natural-feature" name="natural-feature" value="natural-feature">
-      <label for="natural-feature"> Natural Feature</label><br>
-      <input type="checkbox" id="travel-agency" name="travel-agency" value="travel-agency">
-      <label for="travel-agency"> Travel Agency</label><br>
-      <input type="checkbox" id="food" name="food" value="food">
-      <label for="food"> Food</label><br>
-      <input type="checkbox" id="point-of-interest" name="point-of-interest" value="point-of-interest">
-      <label for="point-of-interest"> Point of Interest</label><br>
-      <input type="checkbox" id="store" name="store" value="store">
-      <label for="store"> Store</label><br>
-      <input type="checkbox" id="meal-delivery" name="meal-delivery" value="meal-delivery">
-      <label for="meal-delivery"> Meal Delivery</label><br>
-      <input type="checkbox" id="park" name="park" value="park">
-      <label for="park"> Park</label><br>
-      <input type="checkbox" id="liquor-store" name="liquor-store" value="liquor-store">
-      <label for="liquor-store"> Liquor Store</label><br>
-      <input type="checkbox" id="gas-station" name="gas-station" value="gas-station">
-      <label for="gas-station"> Gas Station</label><br>
-      <input type="checkbox" id="restaurant" name="restaurant" value="restaurant">
-      <label for="restaurant"> Retaurant</label><br>
-      <input type="checkbox" id="cafe" name="cafe" value="cafe">
-      <label for="cafe"> Cafe</label><br>
-      <input type="checkbox" id="meal-takeaway" name="meal-takeaway" value="meal-takeaway">
-      <label for="meal-takeaway"> Meal Takeaway</label><br>
-      <input type="checkbox" id="movie-theater" name="movie-theater" value="movie-theater">
-      <label for="movie-theater"> Movie Theater</label><br>
-      <input type="checkbox" id="grocery-or-supermarket" name="grocery-or-supermarket" value="grocery-or-supermarket">
-      <label for="grocery-or-supermarket"> Grocery or Supermarket</label><br>
-      <input type="checkbox" id="nightclub" name="nightclub" value="nightclub">
-      <label for="nightclub"> Night Club</label><br>
-      <input type="checkbox" id="hair-care" name="hair-care" value="hair-care">
-      <label for="hair-care"> Hair Care</label><br>
-      <input type="checkbox" id="finance" name="finance" value="finance">
-      <label for="finance"> Finance</label><br>
-      <input type="checkbox" id="bar" name="bar" value="bar">
-      <label for="bar"> Bar</label><br>
-      <input type="checkbox" id="art-gallary" name="art-gallary" value="art-gallary">
-      <label for="art-gallary"> Art Gallary</label><br>
-      <input type="checkbox" id="tourist-attraction" name="tourist-attraction" value="tourist-attraction">
-      <label for="tourist-attraction"> Tourist Attraction</label><br>
-      <input type="checkbox" id="cemetery" name="cemetery" value="cemetery">
-      <label for="cemetery"> Cemetery</label><br>
-      <input type="checkbox" id="supermarket" name="supermarket" value="supermarket">
-      <label for="supermarket"> Supermarket</label><br>
-      <input type="checkbox" id="real-estate-agency" name="real-estate-agency" value="real-estate-agency">
-      <label for="real-estate-agency"> Real Estate Agency</label><br>
-      <input type="checkbox" id="bakery" name="bakery" value="bakery">
-      <label for="bakery"> Bakery</label><br>
-      <input type="checkbox" id="jewelry-store" name="jewelry-store" value="jewelry-store">
-      <label for="jewelry-store"> Jewelry Store</label><br>
-      <input type="checkbox" id="place-of-worship" name="place-of-worship" value="place-of-worship">
-      <label for="place-of-worship"> Place of Worship</label><br>
-      <input type="checkbox" id="church" name="church" value="church">
-      <label for="church"> Church</label><br>
-      <input type="checkbox" id="local-government-office" name="local-government-office" value="local-government-office">
-      <label for="local-government-office"> Local Government Office</label><br>
-      <input type="checkbox" id="home-goods-store" name="home-goods-store" value="home-goods-store">
-      <label for="home-goods-store"> Home Goods Store</label><br>
-      <input type="checkbox" id="museum" name="museum" value="museum">
-      <label for="museum"> Museum</label><br>
-      <input type="checkbox" id="car-wash" name="car-wash" value="car-wash">
-      <label for="car-wash"> Car Wash</label><br>
-      <input type="checkbox" id="car-repair" name="car-repair" value="car-repair">
-      <label for="car-repair"> Car Repair</label><br>
-      <input type="checkbox" id="aquarium" name="aquarium" value="aquarium">
-      <label for="aquarium"> Aquarium</label><br>
-      <input type="checkbox" id="establishment" name="establishment" value="establishment">
-      <label for="establishment"> Establishment</label><br><br><br>
-      <button class="w3-button w3-black" type="submit">SUBMIT</button>
+    <div class="row">
+      <div class="column" style="background-color:#ccc;">
+        
+        
+        <form action="/action_page.php" target="_blank">
+          <button class="w3-button w3-black" type="submit">SUBMIT</button>
+          <input type="text" id="userlat" placeholder="Latitude"required name="Name"></p>
+          <input type="text" id="userlng" placeholder="Longitude" required name="Name"></p>
+        
+          <input type="checkbox" id="shopping-mall" name="shopping-mall" value="shopping-mall">
+          <label for="shopping-mall"> Shopping Mall</label><br>
+          <input type="checkbox" id="clothing-store" name="clothing-store" value="clothing-store">
+          <label for="clothing-store"> Clothing Store</label><br>
+          <input type="checkbox" id="natural-feature" name="natural-feature" value="natural-feature">
+          <label for="natural-feature"> Natural Feature</label><br>
+          <input type="checkbox" id="travel-agency" name="travel-agency" value="travel-agency">
+          <label for="travel-agency"> Travel Agency</label><br>
+          <input type="checkbox" id="food" name="food" value="food">
+          <label for="food"> Food</label><br>
+          <input type="checkbox" id="point-of-interest" name="point-of-interest" value="point-of-interest">
+          <label for="point-of-interest"> Point of Interest</label><br>
+          <input type="checkbox" id="store" name="store" value="store">
+          <label for="store"> Store</label><br>
+          <input type="checkbox" id="meal-delivery" name="meal-delivery" value="meal-delivery">
+          <label for="meal-delivery"> Meal Delivery</label><br>
+          
+        
+      </div>
+      <div class="column" style="background-color:#ccc;">
+          <input type="checkbox" id="park" name="park" value="park">
+          <label for="park"> Park</label><br>
+          <input type="checkbox" id="liquor-store" name="liquor-store" value="liquor-store">
+          <label for="liquor-store"> Liquor Store</label><br>
+          <input type="checkbox" id="gas-station" name="gas-station" value="gas-station">
+          <label for="gas-station"> Gas Station</label><br>
+          <input type="checkbox" id="restaurant" name="restaurant" value="restaurant">
+          <label for="restaurant"> Retaurant</label><br>
+          <input type="checkbox" id="cafe" name="cafe" value="cafe">
+          <label for="cafe"> Cafe</label><br>
+          <input type="checkbox" id="meal-takeaway" name="meal-takeaway" value="meal-takeaway">
+          <label for="meal-takeaway"> Meal Takeaway</label><br>
+          <input type="checkbox" id="movie-theater" name="movie-theater" value="movie-theater">
+          <label for="movie-theater"> Movie Theater</label><br>
+          <input type="checkbox" id="grocery-or-supermarket" name="grocery-or-supermarket" value="grocery-or-supermarket">
+          <label for="grocery-or-supermarket"> Grocery/Supermarket</label><br>
+          <input type="checkbox" id="nightclub" name="nightclub" value="nightclub">
+          <label for="nightclub"> Night Club</label><br>
+          <input type="checkbox" id="hair-care" name="hair-care" value="hair-care">
+          <label for="hair-care"> Hair Care</label><br>
+          <input type="checkbox" id="finance" name="finance" value="finance">
+          <label for="finance"> Finance</label><br>
+          <input type="checkbox" id="bar" name="bar" value="bar">
+          <label for="bar"> Bar</label><br>
+          <input type="checkbox" id="art-gallary" name="art-gallary" value="art-gallary">
+          <label for="art-gallary"> Art Gallary</label><br>
+          <input type="checkbox" id="tourist-attraction" name="tourist-attraction" value="tourist-attraction">
+          <label for="tourist-attraction"> Tourist Attraction</label><br>
+          
+       
+      </div>
+      <div class="column" style="background-color:#ccc;">
+        
+          <input type="checkbox" id="cemetery" name="cemetery" value="cemetery">
+          <label for="cemetery"> Cemetery</label><br>
+          <input type="checkbox" id="supermarket" name="supermarket" value="supermarket">
+          <label for="supermarket"> Supermarket</label><br>
+          <input type="checkbox" id="real-estate-agency" name="real-estate-agency" value="real-estate-agency">
+          <label for="real-estate-agency"> Real Estate Agency</label><br>
+          <input type="checkbox" id="bakery" name="bakery" value="bakery">
+          <label for="bakery"> Bakery</label><br>
+          <input type="checkbox" id="jewelry-store" name="jewelry-store" value="jewelry-store">
+          <label for="jewelry-store"> Jewelry Store</label><br>
+          <input type="checkbox" id="place-of-worship" name="place-of-worship" value="place-of-worship">
+          <label for="place-of-worship"> Place of Worship</label><br>
+          <input type="checkbox" id="church" name="church" value="church">
+          <label for="church"> Church</label><br>
+          <input type="checkbox" id="local-government-office" name="local-government-office" value="local-government-office">
+          <label for="local-government-office"> Government Office</label><br>
+          <input type="checkbox" id="home-goods-store" name="home-goods-store" value="home-goods-store">
+          <label for="home-goods-store"> Home Goods Store</label><br>
+          <input type="checkbox" id="museum" name="museum" value="museum">
+          <label for="museum"> Museum</label><br>
+          <input type="checkbox" id="car-wash" name="car-wash" value="car-wash">
+          <label for="car-wash"> Car Wash</label><br>
+          <input type="checkbox" id="car-repair" name="car-repair" value="car-repair">
+          <label for="car-repair"> Car Repair</label><br>
+          <input type="checkbox" id="aquarium" name="aquarium" value="aquarium">
+          <label for="aquarium"> Aquarium</label><br>
+          <input type="checkbox" id="establishment" name="establishment" value="establishment">
+          <label for="establishment"> Establishment</label><br><br><br>
+          
+       
+      </div>
     </form>
+      
+    </div>
+    
   </div>
 </div>
 
@@ -257,11 +275,17 @@ function openMenu(evt, menuName) {
 }
 document.getElementById("myLink").click();
 </script>
-<script src="static/js/app.js"></script>
-<script>
+<script src="../static/js/app.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIwzALxUPNbatRBj3Xi1Uhp0fFzwWNBkE&callback=initMap&libraries=&v=weekly"
+      defer
+    ></script>
+    <script src="../static/js/index.js"></script>
+    <script type="text/javascript">
+      
+      </script>
 
-  myPredict = rating
-
-</script>
 </body>
 </html>
+
