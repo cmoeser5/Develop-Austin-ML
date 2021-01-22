@@ -1,0 +1,38 @@
+body, html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+  }
+  
+  .bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../images/austin.jpg");
+    min-height: 75%;
+  }
+  
+  .menu {
+    display: none;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create three equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 500px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  #map {
+    width: 700px;
+    height: 500px;
+  }
