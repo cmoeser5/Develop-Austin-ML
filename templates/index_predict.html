@@ -32,13 +32,7 @@
       <a href="#" class="w3-button w3-block w3-black">HOME</a>
     </div>
     <div class="w3-col s3">
-      <a href="#about" class="w3-button w3-block w3-black">ABOUT</a>
-    </div>
-    <div class="w3-col s3">
-      <a href="#data" class="w3-button w3-block w3-black">DATA</a>
-    </div>
-    <div class="w3-col s3">
-      <a href="#visual" class="w3-button w3-block w3-black">VISUAL</a>
+      <a href="predict" class="w3-button w3-block w3-black">PREDICT</a>
     </div>
   </div>
 </div>
@@ -176,31 +170,6 @@
        <p>
          {{ prediction }}
        </p>
-       <script>
-         var data = [
-              {
-                domain: { x: [0, 1], y: [0, 1] },
-                value: {{ prediction }},
-                title: { text: “Rating” },
-                type: “indicator”,
-                mode: “gauge+number”,
-                gauge: {
-                  axis: { range: [null, 6] },
-                  steps: [
-                    { range: [0, 3], color: “lightgray” },
-                    { range: [3, 6], color: “gray” }
-                  ],
-                  threshold: {
-                    line: { color: “red”, width: 4 },
-                    thickness: 0.75,
-                    value: 3
-                  }
-                }
-              }
-            ];
-          var layout = { width: 600, height: 450, margin: { t: 0, b: 0 } };
-          Plotly.newPlot(data, layout);
-       </script>
     </div> 
     </div>
     
@@ -212,7 +181,7 @@
 
 <!-- Footer -->
 <footer class="w3-center w3-light-grey w3-padding-48 w3-large">
-  <p>Copyright &copy; Akik | Caroline | Ed | Natalia | Zach  2020 <atitle="W3.CSS" target="_blank" class="w3-hover-text-green"></a></p>
+  <p>Copyright &copy; Akik | Caroline | Ed | Natalia | Zach  2021 <atitle="W3.CSS" target="_blank" class="w3-hover-text-green"></a></p>
 </footer>
 
 <script>
