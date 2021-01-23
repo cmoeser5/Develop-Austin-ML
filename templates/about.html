@@ -14,7 +14,7 @@ body, html {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url("../images/austin.png");
+  background-image: url("../static/images/austin.jpg");
   min-height: 75%;
 }
 
@@ -28,7 +28,7 @@ body, html {
 <div class="w3-top">
   <div class="w3-row w3-padding w3-black">
     <div class="w3-col s3">
-      <a href="#" class="w3-button w3-block w3-black">HOME</a>
+      <a href="/" class="w3-button w3-block w3-black">HOME</a>
     </div>
     <div class="w3-col s3">
       <a href="predict" class="w3-button w3-block w3-black">PREDICT</a>
@@ -59,12 +59,13 @@ body, html {
     <p>This application uses machine learning to predict possible user ratings of new developments around Austin.</p>
     <p>* Rating prediction based on the lat + long + types of possible new developments in Austin</p>
     <p>* User will enter select a location on the map and click certain features and the machine will predict the rating</p>
+    <p>* Please click the "PREDICT" button at the top of the page to continue</p>
   
 <div class="w3-panel w3-leftbar w3-light-grey">
       <p><i>"This is the best product to find accurate locations to start any business! I am extremly satisfied with their customer service".</i></p>
       <p>Chef, Taco-Truck Owner: Bob Brown</p>
     </div>
-    <img src="../images/tacos.jpg" style="width:100%;max-width:1000px" class="w3-margin-top">
+    <img src="../static/images/tacos.jpg" style="width:100%;max-width:1000px" class="w3-margin-top">
     <p><strong>Opening hours:</strong> everyday from 6am to 5pm.</p>
     <p><strong>Address:</strong> 600 Congress street, Austin</p>
   </div>
@@ -74,11 +75,11 @@ body, html {
 <!-- Contact/Area Container -->
 <div class="w3-container" id="visual" style="padding-bottom:32px;">
   <div class="w3-content" style="max-width:700px">
-    <img src="../images/austin1.jpg" class="w3-image" style="width:100%">
+    <img src="../static/images/austin1.jpg" class="w3-image" style="width:100%">
   </div>
 
   <div>
-    <p>Below is a heat map of the most popular locations visited by user rating</p>
+    <p>Below is a heat map of the most popular locations visited by users</p>
     <a href="https://plotly.com/~akikp/3/?share_key=ZRFYETb2k5d0NXklK4RdPU" target="_blank" title="Plot 3" style="display: block; text-align: center;"><img src="https://plotly.com/~akikp/3.png?share_key=ZRFYETb2k5d0NXklK4RdPU" alt="Plot 3" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
     <script data-plotly="akikp:3" sharekey-plotly="ZRFYETb2k5d0NXklK4RdPU" src="https://plotly.com/embed.js" async></script>
   </div>
