@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def status():
-    return "Ready!"
+    return render_template("about.html")
 
 @app.route("/predict", methods=["GET","POST"])
 def predict():
