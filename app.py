@@ -1,5 +1,7 @@
 from flask import Flask, request, jsonify, render_template
 from joblib import load
+import plotly.graph_objects as go
+
 
 lr = load("notebooks/lr.joblib")
 
@@ -66,9 +68,10 @@ def predict():
         X_predict = [[latitude, longitude, nan] + x_checkboxes]
         print(X_predict)
         
-        rating = lr.predict(X_predict)
+        rating = lr.predict(X_predict)[0]
         print(rating)
-    
+
+
         return render_template("index_predict.html", prediction=rating)
 
     return render_template("index.html")
